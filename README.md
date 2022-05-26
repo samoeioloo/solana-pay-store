@@ -7,11 +7,11 @@ This project is an online version of the fictional store that sells wands from H
 ![alt text](./public/p2.png)
 
 ## Still working on:
-[] Receiving payment in USDC
-[] Upgrading items in store
+- [ ] Receiving payment in USDC
+- [ ] Upgrading items in store
 
 
-To get started with this project, clone this repo and follow these commands:
+## To get started with this project, clone this repo and follow these commands:
 
 1. Run `npm install` at the root of your directory
 2. Run `npm run dev` to start the project
